@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RutasSLP</string>
+    <string name="action_settings">Settings</string>
+    <!-- Menu Section -->
+    <string name="app_title_instruction">Please select an action: </string>
+    <string name="gps_image_text">View Rutes</string>
+    <string name="pin_image_text"> Search From My Location </string>
+    <string name="title_activity_select_rute">SelectRute</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="select_rute_msg">Select the rute or rutes to show:</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_return">Return></string>
+    <string name="title_activity_map">MapActivity</string>
+
+</resources>

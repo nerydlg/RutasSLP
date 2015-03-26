@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/pre-dexed/debug/classes-2b1c7849322cb46a251f3642bdcced7ce5558d1b.jar" />
+    </item>
+    <item
+        jar="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-3ba364f2a26b8880cd575d9920357685129d4cb2.jar" />
+    </item>
+    <item
+        jar="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/pre-dexed/debug/classes-aee109d55c8ac582a82fb7db684bb56efc9836c1.jar" />
+    </item>
+    <item
+        jar="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.11/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/pre-dexed/debug/classes-235c5d6e69689f534f58e67fc04b8d214db3f862.jar" />
+    </item>
+    <item
+        jar="/home/nery.delgado/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-cf850528edcb434b278cac42e389029d3bffd308.jar" />
+    </item>
+    <item
+        jar="/home/nery.delgado/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/home/nery.delgado/Documents/AndroidStudioProjects/RutasSLP/app/build/intermediates/pre-dexed/debug/gson-2.2.4-6bb0e5a39dde96067a337007daaae8ea988d4c81.jar" />
+    </item>
+
+</items>
